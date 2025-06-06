@@ -19,9 +19,6 @@ DAA Assignment/
 │   └── random_1000.txt
 ├── Q2/
 │   └── q2_tc.txt
-├── .vscode/
-│   ├── settings.json
-│   └── tasks.json
 ├── Q3/
 │ ├── Q3_a/
 │ ├── Q3_b/
