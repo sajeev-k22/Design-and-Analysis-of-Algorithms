@@ -55,8 +55,6 @@ Each folder contains test case files
 ## 📄 Reports
 
 - **Report.pdf** – Contains detailed analysis, algorithm comparison, and performance results.
-- **Design and Analysis of Algorithms report all.docx** – Editable version of the report.
-- **Q2/q2_tc.txt** – Input/output or test case file for the second question.
 
 ## 🛠 VS Code Integration
 
@@ -65,3 +63,10 @@ The `.vscode/` directory includes recommended settings and tasks to simplify cod
 ---
 
 > 💡 Tip: Ensure Python is installed and available in your system's PATH. You can install Python from [python.org](https://www.python.org/).
+
+------------------------------------------------------------------------------------------------
+👨‍💻 Author
+
+- Sajeev Kaleeswaran
+- Email: sajeevkaleeswaran@gmail.com
+- GitHub: github.com/sajeev-k22
