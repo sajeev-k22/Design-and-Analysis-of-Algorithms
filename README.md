@@ -1,8 +1,3 @@
-
-# 📘 DAA Assignment
-
-This repository contains solutions for a Design and Analysis of Algorithms (DAA) assignment, including multiple sorting algorithms, test case files, and a comprehensive analysis report.
-
 ## 📁 Project Structure
 
 ```
