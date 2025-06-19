@@ -1,7 +1,7 @@
 ## 📁 Project Structure
 
 ```
-DAA Assignment/
+Design-and-Analysis-of-Algorithms
 ├── Q1/  # Sorting Algorithms in Python
 │   ├── bucket.py  # Bucket Sort implementation
 │   ├── heapsort.py  # Heap Sort implementation
